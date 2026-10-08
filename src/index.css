@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #e8f1fa;
+
+  --color-income: #16a34a;
+  --color-income-light: #dcfce7;
+
+  --color-expense: #ef4444;
+  --color-expense-light: #fee2e2;
+
+  --color-highlight: #0f766e;
+
+  --color-background: #f8fafc;
+  --color-card: #ffffff;
+
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #64748b;
+
+  --color-border: #e2e8f0;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+}

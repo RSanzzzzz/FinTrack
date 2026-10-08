@@ -1,0 +1,12 @@
+{
+  "appId": "com.fintrack.app",
+  "appName": "FinTrack",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#F8FAFC",
+      "showSpinner": false
+    }
+  }
+}
